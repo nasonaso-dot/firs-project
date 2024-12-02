@@ -1,1 +1,1 @@
-# firs-project
+# first-project
